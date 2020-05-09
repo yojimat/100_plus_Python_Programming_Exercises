@@ -55,5 +55,5 @@ def questao15():
 
 
 if __name__ == "__main__":
-    #questao14()
+    questao14()
     questao15()

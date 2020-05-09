@@ -103,7 +103,7 @@ def getFrase():
     return print(f"LETTERS {letra}", f"DIGITS {digito}", sep="\n")
 
 if __name__ == "__main__":
-    # sortSequencia(getInput()) #questão 10
-    # getBinarios() #questão 11
-    # getNumerosDigitosPares10003000() #questão 12
-    # getFrase() #questão 13
+    sortSequencia(getInput()) #questão 10
+    getBinarios() #questão 11
+    getNumerosDigitosPares10003000() #questão 12
+    getFrase() #questão 13
